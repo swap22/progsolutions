@@ -1,4 +1,4 @@
-link for programme https://www.hackerrank.com/challenges/java-stdin-and-stdout-1
+//link for programme https://www.hackerrank.com/challenges/java-stdin-and-stdout-1
 
 import java.util.*;
 

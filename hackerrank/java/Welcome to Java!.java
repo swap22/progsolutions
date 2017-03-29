@@ -1,4 +1,4 @@
-link for programm https://www.hackerrank.com/challenges/welcome-to-java
+//link for programm https://www.hackerrank.com/challenges/welcome-to-java
 
 public class Solution {
 
